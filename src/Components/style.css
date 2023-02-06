@@ -1,0 +1,31 @@
+.heroSection{
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    text-align: start;
+    background-image: url('https://i.pinimg.com/564x/5c/a4/c4/5ca4c46a12674eaedc067be6e18daae4.jpg');
+    background-image: url('https://i.pinimg.com/originals/ab/de/0f/abde0fa992988bb9fbafac6bd3ab7a35.gif');
+
+    background-image: url('https://i.pinimg.com/736x/34/c0/11/34c0113ec2ae160ff2503870aa025471.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.aboutSection{
+    text-align: start;
+    height: 290px;
+}
+
+
+footer{
+    height: 200px;
+}
+.skills{
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.645);
+    background-color:rgba(112, 82, 82, 0.791)
+}
+
